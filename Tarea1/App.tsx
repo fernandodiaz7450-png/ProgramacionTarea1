@@ -1,6 +1,6 @@
 import React from "react";
-import Ejercicio1 from "./Components/Ejercicio1";
+import Ejercicio2 from "./Components/Ejercicio2";
 
 export default function App() {
-  return <Ejercicio1 />;
+  return <Ejercicio2 />;
 }
